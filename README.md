@@ -18,6 +18,7 @@ Boolflix uses the [The Movie Database (TMDb) API](https://developers.themoviedb.
 - SCSS
 - JavaScript
 - Vue
+- Vite
 - Bootstrap
 - FontAwesome
 - Google Fonts
